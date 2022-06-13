@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mercyvm
-- 🌱 I’m currently learning ... Python y JavaScript          
+- 🌱 I’m currently learning ... Python, Java and JavaScript          
 - 📫 How to reach me ...https://www.linkedin.com/in/mercyvm/
 <!---
 Mercyvm/Mercyvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
